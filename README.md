@@ -14,7 +14,7 @@ Steps Performed
 4. Used `terraform plan` to preview the changes.
 5. Applied the infrastructure with `terraform apply`.
 6. Verified that nginx was running on [http://localhost:8080](http://localhost:8080)
-7. 7. Cleaned up resources using `terraform destroy`.
+7. Cleaned up resources using `terraform destroy`.
 8. Checked Terraform-managed resources using `terraform state list`.
 
 Outcome
